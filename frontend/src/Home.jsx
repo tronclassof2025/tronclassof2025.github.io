@@ -1,11 +1,11 @@
 import React, { useState } from 'react';
 import PieChartComponent from "./component/PieChartComp"
-
+import About from './pages/Education';
 
 export const Home = () => {
-    const [activeTab, setActiveTab] = useState('home');
-    const renderContent = () => {
-    switch(activeTab) {
+  const [activeTab, setActiveTab] = useState('home');
+  const renderContent = () => {
+    switch (activeTab) {
       case 'home':
         return (
           <div>
@@ -17,7 +17,7 @@ export const Home = () => {
         return (
           <div>
             <h1>About Us</h1>
-            <p>Learn more about our company and mission.</p>
+            <About />
           </div>
         );
       case 'services':
@@ -43,7 +43,7 @@ export const Home = () => {
     <div className="app">
       <nav className="sidebar">
         <div className="nav-item">
-          <button 
+          <button
             className={activeTab === 'home' ? 'active' : ''}
             onClick={() => setActiveTab('home')}
           >
@@ -51,7 +51,7 @@ export const Home = () => {
           </button>
         </div>
         <div className="nav-item">
-          <button 
+          <button
             className={activeTab === 'about' ? 'active' : ''}
             onClick={() => setActiveTab('about')}
           >
@@ -59,7 +59,7 @@ export const Home = () => {
           </button>
         </div>
         <div className="nav-item">
-          <button 
+          <button
             className={activeTab === 'services' ? 'active' : ''}
             onClick={() => setActiveTab('services')}
           >
@@ -67,7 +67,7 @@ export const Home = () => {
           </button>
         </div>
         <div className="nav-item">
-          <button 
+          <button
             className={activeTab === 'contact' ? 'active' : ''}
             onClick={() => setActiveTab('contact')}
           >
