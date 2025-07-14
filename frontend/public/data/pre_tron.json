@@ -1,0 +1,87 @@
+{
+  "gtaHighSchool": {
+    "question": "Did you go to high school in the GTA (Greater Toronto Area)?",
+    "responses": {
+      "yes": 70,
+      "no": 53
+    }
+  },
+  "romanticRelationship": {
+    "question": "Have you ever been in a romantic relationship?",
+    "responses": {
+      "yes": 89,
+      "no": 23,
+      "its_complicated": 9
+    }
+  },
+  "bodyCount": {
+    "question": "What's your body count?",
+    "responses": {
+      "0": 28,
+      "1": 37,
+      "2": 8,
+      "3": 9,
+      "4": 1,
+      "5": 4,
+      "6": 2,
+      "7": 2,
+      "9": 1,
+      "10": 1,
+      "11": 1,
+      "12": 1
+    }
+  },
+  "ricePurityScores": {
+    "question": "Rice purity score?",
+    "note": "Test available at https://ricepuritytest.com - all scores are two-digit numbers",
+    "rawData": "6549743743388845414345619220605245344660504241534764375341529756944788271838355098517148459643966963335471974251548597655541457260954369553782928836636246239555",
+    "scores": [
+      65, 49, 74, 37, 43, 38, 88, 45, 41, 43, 45, 61, 92, 20, 60, 52, 45, 34, 46, 60, 50, 42, 41, 53, 47, 64, 37, 53, 41, 52, 97, 56, 94, 47, 88, 27, 18, 38, 35, 50, 98, 51, 71, 48, 45, 96, 43, 96, 69, 63, 33, 54, 71, 97, 42, 51, 54, 85, 97, 65, 55, 41, 45, 72, 60, 95, 43, 69, 55, 37, 82, 92, 88, 36, 63, 62, 46, 23, 95, 55
+    ]
+  },
+  "sex": {
+    "question": "Sex?",
+    "responses": {
+      "yes": 47,
+      "with_the_dog": 4,
+      "every_once_in_a_while": 18,
+      "no": 26,
+      "waiting_for_marriage": 14
+    }
+  },
+  "drugs": {
+    "question": "Drugs? (not alcohol or marijuana)",
+    "responses": {
+      "no": 103,
+      "yes": 13,
+      "meth_only": 2
+    }
+  },
+  "weed": {
+    "question": "Weed?",
+    "responses": {
+      "no": 64,
+      "yes": 44,
+      "maybe": 8
+    }
+  },
+  "drinking": {
+    "question": "Drinking?",
+    "responses": {
+      "yes": 75,
+      "no": 31,
+      "maybe": 12
+    }
+  },
+  "partyingFrequency": {
+    "question": "How frequently do you go party/clubbing?",
+    "note": "Scale appears to be 1-5 based on chart data",
+    "responses": {
+      "1": 34,
+      "2": 57,
+      "3": 24,
+      "4": 4,
+      "5": 0
+    }
+  }
+}

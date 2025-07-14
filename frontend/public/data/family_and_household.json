@@ -1,0 +1,76 @@
+{
+  "siblings": {
+    "question": "How many siblings do you have?",
+    "responses": {
+      "0": 15,
+      "1": 68,
+      "2": 30,
+      "3": 7,
+      "5_plus": 4
+    }
+  },
+  "householdIncome": {
+    "question": "What would you estimate your parents'/guardians' annual household income to be? (In CAD)",
+    "responses": {
+      "200k_plus": 28,
+      "150k_200k": 25,
+      "100k_150k": 26,
+      "50k_100k": 30,
+      "under_50k": 7
+    }
+  },
+  "parentEducation": {
+    "question": "What's the highest level of education your parents have obtained?",
+    "responses": {
+      "below_secondary": 1,
+      "secondary": 11,
+      "post_secondary": 67,
+      "masters": 31,
+      "phd": 14
+    }
+  },
+  "uwaterlooConnection": {
+    "question": "Have any members of your household attended UWaterloo in any capacity before (as staff, student, or faculty)?",
+    "responses": {
+      "no": 100,
+      "yes": 24
+    }
+  },
+  "uwConnectionImpact": {
+    "question": "If you answered 'yes' to the above, how much would you say this impacted your decision to attend UW?",
+    "note": "Scale of 1-5",
+    "responses": {
+      "1": 6,
+      "2": 4,
+      "3": 6,
+      "4": 10,
+      "5": 2
+    }
+  },
+  "stemHousehold": {
+    "question": "Are any members of your household involved in, or currently working in STEM (science, technology, engineering, mathematics)?",
+    "responses": {
+      "yes": 66,
+      "no": 55,
+      "maybe": 3
+    }
+  },
+  "stemInfluenceOnMajor": {
+    "question": "If you answered 'yes' to the above, how much would you say this impacted your decision to choose mechatronics as your major?",
+    "note": "Scale of 1-5",
+    "responses": {
+      "1": 17,
+      "2": 10,
+      "3": 10,
+      "4": 21,
+      "5": 9
+    }
+  },
+  "familyFinancialAssistance": {
+    "question": "Did your family provide any financial assistance to you during the course of your degree?",
+    "responses": {
+      "yes": 106,
+      "no": 17
+    }
+  }
+}

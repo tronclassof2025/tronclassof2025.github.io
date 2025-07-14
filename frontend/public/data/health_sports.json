@@ -1,0 +1,303 @@
+{
+    "liftingPRs": {
+        "question": "What's your current max lift? Show us your PRs!",
+        "benchPress": {
+            "responses": [
+                275,
+                245,
+                225,
+                165,
+                245,
+                135,
+                135,
+                180,
+                255,
+                225,
+                245,
+                250,
+                155,
+                235,
+                115,
+                115,
+                240,
+                185,
+                235,
+                215,
+                175,
+                135,
+                225,
+                120,
+                165,
+                135
+            ],
+            "ranges": {
+                "under_135": 8,
+                "135_185": 10,
+                "186_225": 4,
+                "226_275": 4,
+                "276_plus": 0
+            }
+        },
+        "squat": {
+            "responses": [
+                275,
+                340,
+                185,
+                245,
+                365,
+                185,
+                185,
+                315,
+                135
+            ],
+            "ranges": {
+                "under_185": 4,
+                "185_225": 2,
+                "226_275": 1,
+                "276_315": 1,
+                "316_plus": 1
+            }
+        },
+        "deadlift": {
+            "responses": [
+                450,
+                385,
+                285,
+                495,
+                315,
+                245,
+                410,
+                325,
+                405,
+                345,
+                425,
+                700
+            ],
+            "ranges": {
+                "under_315": 3,
+                "315_405": 4,
+                "406_450": 3,
+                "451_495": 1,
+                "496_plus": 1
+            }
+        },
+        "nonLifters": {
+            "responses": [
+                "0",
+                "Fuck that",
+                "30 :((",
+                "80lbs",
+                "the bar!",
+                "I'm weak",
+                "dunno the others",
+                "75?",
+                "95"
+            ],
+            "count": 9
+        },
+        "specialMentions": {
+            "700_pound_deadlift": 1,
+            "one_plate_bench": 3,
+            "imbalanced_lifter": 1,
+            "accessory_exercises_only": 2
+        }
+    },
+    "intramuralSports": {
+        "question": "Intramurals/sports on term?",
+        "responses": {
+            "volleyball": 33,
+            "basketball": 26,
+            "frisbee": 21,
+            "soccer": 13,
+            "badminton": 9,
+            "dodgeball": 8,
+            "flag_football": 5,
+            "spikeball": 4,
+            "hockey": 3,
+            "flag_football_alt": 2,
+            "hockey_flag_football": 1,
+            "muay_thai_jiu_jitsu": 1,
+            "ball_hockey_first_year": 1,
+            "rock_climbing": 1,
+            "softball": 1,
+            "rowing": 1,
+            "spikeball_inner_tube_water": 1,
+            "hockey_spikeball_water": 1,
+            "table_tennis": 1,
+            "jiujitsu": 1,
+            "ice_hockey": 1,
+            "squash": 1,
+            "dodgeball_caps": 1,
+            "squash_tennis": 1,
+            "squash_swimming": 1
+        },
+        "popularSports": {
+            "volleyball": 33,
+            "basketball": 26,
+            "frisbee": 21,
+            "soccer": 13,
+            "badminton": 9,
+            "dodgeball": 8
+        },
+        "ballSports": {
+            "volleyball": 33,
+            "basketball": 26,
+            "soccer": 13,
+            "badminton": 9,
+            "dodgeball": 8,
+            "spikeball": 4,
+            "softball": 1,
+            "table_tennis": 1
+        },
+        "hockeySports": {
+            "hockey": 3,
+            "ball_hockey_first_year": 1,
+            "ice_hockey": 1,
+            "hockey_flag_football": 1,
+            "hockey_spikeball_water": 1
+        },
+        "racketSports": {
+            "badminton": 9,
+            "table_tennis": 1,
+            "squash": 1,
+            "squash_tennis": 1
+        },
+        "combatSports": {
+            "muay_thai_jiu_jitsu": 1,
+            "jiujitsu": 1
+        },
+        "other": {
+            "frisbee": 21,
+            "flag_football": 7,
+            "rock_climbing": 1,
+            "rowing": 1,
+            "squash_swimming": 1,
+            "spikeball_inner_tube_water": 1
+        }
+    },
+    "intramuralStories": {
+        "question": "Share your favorite intramural/sports story or achievement",
+        "championships": [
+            {
+                "sport": "volleyball",
+                "achievement": "Won volleyball last term",
+                "type": "recent_win"
+            },
+            {
+                "sport": "volleyball",
+                "achievement": "Championship for beginner volleyball",
+                "type": "beginner_champion"
+            },
+            {
+                "sport": "softball",
+                "achievement": "Four time intramural softball champion. 34-1-1 career record",
+                "type": "dominant_champion"
+            },
+            {
+                "sport": "table_tennis",
+                "achievement": "Being crowned the table tennis champion of Engineering Class of 2025",
+                "type": "class_champion"
+            },
+            {
+                "sport": "frisbee",
+                "achievement": "3x intramural frisbee champ notabigdeal",
+                "type": "repeat_champion"
+            },
+            {
+                "sport": "dodgeball",
+                "achievement": "Winning 4B competitive dodgeball league",
+                "type": "competitive_win"
+            }
+        ],
+        "teamStories": [
+            {
+                "team": "Full Tron Volleyball team called the Dirti DolphynsTron",
+                "story": "volleyball team playing a whole-day Halloween tournament in PAC (hosted by SERVE) while wearing shark onesies. Did surprisingly well, and won best-dressed prize. Was a very funny and sweaty time.",
+                "highlight": "best_dressed_prize"
+            },
+            {
+                "story": "My first intramural soccer team was named after me",
+                "highlight": "team_namesake"
+            }
+        ],
+        "epicMoments": [
+            {
+                "sport": "dodgeball",
+                "story": "Winning an unnecessarily intense intramurals dodgeball finals against an alumni (anime character) who specifically came back to win intramurals dodgeball",
+                "highlight": "anime_villain_defeated"
+            },
+            {
+                "sport": "basketball",
+                "story": "Mercy ruled in beginner basketball and the opposing team started dunking in game",
+                "highlight": "mercy_rule_dunking"
+            }
+        ],
+        "injuries": [
+            {
+                "sport": "flag_football",
+                "injury": "broke and dislocated finger playing flag football literally last week...",
+                "timing": "recent"
+            }
+        ],
+        "gymStories": [
+            {
+                "story": "I once farted while deadlifting, some guy beside me heard and started giggling like a 5 year old. I smiled at him and winked.",
+                "category": "embarrassing_wholesome"
+            },
+            {
+                "story": "Some weird ass gym ppl",
+                "category": "general_observation"
+            }
+        ],
+        "dramaStories": [
+            {
+                "sport": "badminton",
+                "story": "Running the badminton club has led to some interesting encounters with club members... A member once lost a challenge game (TLDR a doubles match to level up to play with better people) and thought one of the defenders was throwing their match, so after session was over and they went home, they got on the club Discord server and posted in the general chat that they hope whoever was in their game would surely not kill themselves. Certainly caused quite the kerfuffle when that happened.",
+                "category": "club_drama"
+            }
+        ],
+        "personalGrowth": [
+            {
+                "story": "Learning bball skills from my cool roommate",
+                "category": "skill_development"
+            },
+            {
+                "story": "Meeting some of my close friends and mentors on the table",
+                "category": "relationship_building"
+            }
+        ],
+        "randomMentions": [
+            "Weakestarmenian goat",
+            "Soumav being the GOAT, us almost winning the losers bracket"
+        ]
+    },
+    "sleepPatterns": {
+        "question": "How much sleep do you get on average, in Tron?",
+        "responses": {
+            "7_8_hours": 47,
+            "6_7_hours": 43,
+            "8_9_hours": 25,
+            "under_6_hours": 6,
+            "9_10_hours": 1,
+            "10_plus_hours": 1
+        },
+        "sleepQuality": {
+            "healthy_sleep": {
+                "7_8_hours": 47,
+                "8_9_hours": 25,
+                "total": 72
+            },
+            "borderline_sleep": {
+                "6_7_hours": 43
+            },
+            "sleep_deprived": {
+                "under_6_hours": 6
+            },
+            "oversleepers": {
+                "9_10_hours": 1,
+                "10_plus_hours": 1,
+                "total": 2
+            }
+        }
+    }
+}
