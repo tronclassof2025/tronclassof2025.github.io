@@ -1,0 +1,93 @@
+{
+  "postGraduationPlans": {
+    "workforcePlans": {
+      "question": "Do you plan on entering the workforce after graduation?",
+      "responses": {
+        "yes": 51,
+        "no": 10,
+        "undecided": 3,
+        "eventually": 1
+      }
+    },
+    "furtherEducation": {
+      "question": "Do you plan on pursuing further education (ie. Master's, PhD)?",
+      "responses": {
+        "yes": 17,
+        "no": 28,
+        "maybe": 19
+      }
+    },
+    "currentEmployment": {
+      "question": "Are you currently employed (ie. have a signed offer letter from a company)?",
+      "responses": {
+        "yes": 34,
+        "no": 30
+      }
+    },
+    "specialPlans": {
+      "question": "Do you have future plans that you'd like to share that were not listed above?",
+      "responses": [
+        "Starting our own startup!",
+        "Starting my own business",
+        "Law School!",
+        "Maybe go into teaching at some point way later in career and supervise a robotics club since that's how I really got interested in engineering.",
+        "Sleep",
+        "Startup"
+      ],
+      "categories": {
+        "entrepreneurship": 3,
+        "law_school": 1,
+        "teaching": 1,
+        "sleep": 1
+      }
+    },
+    "employedCompanies": {
+      "question": "If employed, what company will you be working for?",
+      "responses": [
+        "Tesla", "Airbus", "Apple", "Tesla", "Manulife", "Tesla", "Arlo Technologies",
+        "ATS", "Proline Automation Systems Ltd.", "Tesla", "Snapchat", "Tesla",
+        "Startup", "Matic", "Startup", "Waabi", "Microsoft", "Nuvation Energy",
+        "Netflix", "ATS Industrial Automation", "Prefer not to say", "Brock Solutions",
+        "Mycroft Technologies Inc.", "ATS", "Early Robotics Startup", "Tesla",
+        "Scrawlr", "Aecon", "Tesla", "ICSPI", "Tesla", "Tesla"
+      ],
+      "topCompanies": {
+        "tesla": 9,
+        "ats": 3,
+        "startup": 3,
+        "microsoft": 1,
+        "apple": 1,
+        "netflix": 1,
+        "snapchat": 1,
+        "airbus": 1
+      }
+    },
+    "positionTitles": {
+      "question": "If employed, what is your position title?",
+      "responses": [
+        "Mechanical Design Engineer", "Software developer", "Product Design Engineer",
+        "Test engineer", "Associate Backend Engineer", "Mechanical Designer",
+        "RF engineer", "Mechatronic Systems Integrator", "Mechanical Machine Designer",
+        "Electronic Design Engineer", "Software Engineer", "Thermal Engineer",
+        "Software engineer", "Electrical Design Engineer", "Mechanical engineer (for robotics)",
+        "Researcher", "Project Consultant in Fire Protection Engineering",
+        "Hardware Engineer", "Staff Software Developer", "Software Engineer",
+        "Control Systems Software Designer", "Mechatronics Engineer",
+        "Controls Engineer", "Security Engineer 1", "Applications Engineer",
+        "Machine Learning Engineer", "Mechanical design engineer", "Program Manager",
+        "Engineering Project Coordinator", "Robotics Software Engineer",
+        "Mechatronics Engineer", "Robotics Software Engineer", "Software Engineer"
+      ],
+      "roleCategories": {
+        "software_engineer": 8,
+        "mechanical_engineer": 6,
+        "mechatronics_engineer": 3,
+        "robotics_engineer": 3,
+        "design_engineer": 5,
+        "controls_engineer": 2,
+        "hardware_engineer": 2,
+        "other_specialist": 5
+      }
+    }
+  }
+}
