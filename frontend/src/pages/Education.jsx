@@ -75,14 +75,29 @@ const About = () => {
         <h2>Our Mission</h2>
         <p>To provide excellent service...</p>
       </div>
+      <div className="bg-green-200 rounded-lg shadow-lg p-8">
+        <div className="flex flex-col lg:flex-row gap-8 items-start">
+          {/* Text Content */}
+          <div className="lg:w-1/2 flex-shrink-0">
+            <h2 className="text-3xl font-bold text-gray-800 mb-4 leading-tight">
+              Political View Survey Results
+            </h2>
+            <p className="text-lg text-gray-600 leading-relaxed font-medium">
+              Distribution of political views from 119 survey responses:
+            </p>
+          </div>
+
+          {/* Chart */}
+          <div className="lg:w-1/2 w-full">
+            <RadarChartComponent
+              data={aboutData}
+              name="Percentage %"
+              dataKey="A"
+            />
+          </div>
+        </div>
+      </div>
       <div>
-        <h2>Political View Survey Results</h2>
-        <p>Distribution of political views from 119 survey responses:</p>
-        <RadarChartComponent
-          data={aboutData}
-          name="Percentage %"
-          dataKey="A"
-        />
         <CloudChartComponent
           data={companyData}
           title="Company Distribution"

@@ -1,0 +1,108 @@
+{
+    "transferData": {
+        "question": "Did you transfer into mechatronics from another program @ UW?",
+        "responses": {
+            "no": 116,
+            "yes": 8
+        }
+    },
+    "transferPrograms": {
+        "question": "If yes, what program did you transfer from? (If you switched programs multiple times, please choose the one you were enrolled in before Tron)",
+        "responses": {
+            "mechanical": 7,
+            "biomedical_engineer": 1
+        }
+    },
+    "transferTerm": {
+        "question": "If yes, what term did you transfer into Tron?",
+        "responses": {
+            "1B": 4,
+            "2A": 2,
+            "2B": 1,
+            "after_2B": 1
+        }
+    },
+    "initialStream": {
+        "question": "What stream did you initially enroll @ UW with?",
+        "responses": {
+            "stream_8": 63,
+            "stream_4": 57,
+            "neither": 3
+        }
+    },
+    "currentStream": {
+        "question": "What stream are you currently?",
+        "responses": {
+            "stream_8": 66,
+            "stream_4": 58
+        }
+    },
+    "streamSwitch": {
+        "question": "Did you switch streams? (Only applicable if you switch streams from within Tron, transferring from other programs does not count)",
+        "responses": {
+            "no": 105,
+            "yes": 14
+        }
+    },
+    "streamAdvice": {
+        "question": "Any additional comments about streams, or advice you'd like to provide to future Trons?",
+        "responses": [
+            "Stream 8 gives you time to build more of a portfolio when applying to jobs",
+            "Stream 8 is better for coop opportunities, you can choose!",
+            "Pros and cons with either streams, ultimately the choice of streams is probably negligible in the grand scheme of things",
+            "Stream 4 seems better for the first year. Having 1A and 1B back to back will drain you before you even reach to the second year",
+            "Stream 8 first year is goated",
+            "Doesn't matter as much as I had thought.",
+            "Choose stream 8 its better",
+            "Go in Stream 8 if you can and use your 1A to build your 1st experience in a design team.",
+            "If coming into the program with not much work/relevant experience, stream 8 gives you more time to develop that through design teams and courses, would recommend that as a better option than stream 4.",
+            "If you need more time to beef up your resume, go S8, otherwise go S4.",
+            "4 stream is the best stream",
+            "Choose 8 Stream",
+            "If you're in stream 4, have a resume ready before starting 1A",
+            "Everyone tried to get stream 8 for the coop advantage, but it was really not that important. Stream 4s got jobs just as easily as stream 8s overall.",
+            "Watch out for your coop cycle landing during summer terms, as it is more competitive to find an internship both in Canada and the US",
+            "Pick 8",
+            "Which stream you are in will entirely transform the next 5 years of your life and also doesn't matter at all.",
+            "Try as many things as you can! You never know what you might like or what you might dislike :).",
+            "Bing chill your way through life",
+            "Stream 8 on top",
+            "Stream 4 is the best because the expectations are low and it's easier to land your first co-op and also since you get to breathe after first 4 months and all the other terms",
+            "don't overlook people skills!",
+            "Go with Stream 8 and grind out design teams in the 1st 4 months of 1A",
+            "Actually pick the stream you want. I didn't know you could pick at all :P",
+            "You will fail at least one thing (dw about it)",
+            "Don't worry about streams too much",
+            "Participate in a design team. Courses don't teach you enough to apply at jobs",
+            "Doesn't really matter, so don't stress it imo"
+        ]
+    },
+    "initialStreamChoice": {
+        "question": "Why did you choose your initial stream?",
+        "responses": {
+            "didnt_choose_no_choice": 46,
+            "random": 2,
+            "friends_in_stream": 1,
+            "frc": 1,
+            "better_chance_getting_job": 47,
+            "better_job_opportunities": 19,
+            "more_time_adjust_university": 42,
+            "timeline_suited_goals": 23,
+            "experience_design_teams": 1
+        }
+    },
+    "streamSwitchReasons": {
+        "question": "If you switched streams, why did you switch?",
+        "responses": {
+            "friends": 1,
+            "better_chance_getting_job": 2,
+            "better_job_opportunities": 1,
+            "extend_coop": 4,
+            "timeline_suited_goals": 2,
+            "experience_design_teams": 1,
+            "external_job_off_stream": 1,
+            "wanted_time_off": 3,
+            "exchange": 2
+        }
+    }
+}
