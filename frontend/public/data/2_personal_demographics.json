@@ -1,0 +1,355 @@
+{
+    "internationalStudent": {
+        "question": "Are you an international student?",
+        "responses": {
+            "no": 113,
+            "yes": 11
+        }
+    },
+    "birthYear": {
+        "question": "What year were you born?",
+        "responses": {
+            "2002": 98,
+            "2001": 21,
+            "2003": 2,
+            "1998": 1,
+            "2000": 1
+        }
+    },
+    "ethnicity": {
+        "question": "How would you describe your ethnicity?",
+        "responses": {
+            "white_caucasian": 39,
+            "african": 3,
+            "hispanic_latino": 2,
+            "east_asian": 39,
+            "south_asian": 41,
+            "middle_east_north_africa": 8,
+            "caribbean": 3,
+            "western_european_mediterranean": 1,
+            "jewish": 1
+        }
+    },
+    "gender": {
+        "question": "What gender do you most identify with?",
+        "responses": {
+            "male_cis": 97,
+            "female_cis": 24,
+            "male_trans": 1,
+            "female_trans": 1,
+            "non_binary": 1
+        }
+    },
+    "sexuality": {
+        "question": "What's your sexuality?",
+        "responses": {
+            "straight": 109,
+            "bisexual": 8,
+            "pansexual": 2,
+            "gay": 2,
+            "queer": 1,
+            "asexual": 1
+        }
+    },
+    "disability": {
+        "question": "Do you have a disability (as defined by the World Health Organization)?",
+        "responses": {
+            "no": 107,
+            "yes": 16
+        }
+    },
+    "canadianCitizenship": {
+        "question": "Do you currently hold citizenship in Canada?",
+        "responses": {
+            "yes": 115,
+            "no": 9
+        }
+    },
+    "firstGenerationImmigrant": {
+        "question": "Are you a first-generation immigrant (were your parents born outside of Canada)?",
+        "responses": {
+            "yes": 81,
+            "no": 41
+        }
+    },
+    "countriesFrom":
+    {
+    "question": "Please list all other countries you hold citizenship in, besides Canada (separated by a comma).",
+    "responses": [
+        {
+        "id": 1,
+        "countries": ["Serbia"]
+        },
+        {
+        "id": 2,
+        "countries": ["United States"]
+        },
+        {
+        "id": 3,
+        "countries": ["United States"]
+        },
+        {
+        "id": 4,
+        "countries": ["Taiwan"]
+        },
+        {
+        "id": 5,
+        "countries": ["Hong Kong"]
+        },
+        {
+        "id": 6,
+        "countries": ["Nigeria"]
+        },
+        {
+        "id": 7,
+        "countries": ["Trinidad and Tobago"]
+        },
+        {
+        "id": 8,
+        "countries": ["India"]
+        },
+        {
+        "id": 9,
+        "countries": ["New Zealand", "India"]
+        },
+        {
+        "id": 10,
+        "countries": ["Congo DR"]
+        },
+        {
+        "id": 11,
+        "countries": ["India"]
+        },
+        {
+        "id": 12,
+        "countries": ["France"]
+        },
+        {
+        "id": 13,
+        "countries": ["Trinidad and Tobago"]
+        },
+        {
+        "id": 14,
+        "countries": ["Bangladesh"]
+        },
+        {
+        "id": 15,
+        "countries": ["China"]
+        },
+        {
+        "id": 16,
+        "countries": ["United States"]
+        },
+        {
+        "id": 17,
+        "countries": ["Argentina"]
+        },
+        {
+        "id": 18,
+        "countries": ["Afghanistan"]
+        },
+        {
+        "id": 19,
+        "countries": ["Pakistan"]
+        },
+        {
+        "id": 20,
+        "countries": ["Hong Kong"]
+        },
+        {
+        "id": 21,
+        "countries": ["Italy"]
+        },
+        {
+        "id": 22,
+        "countries": ["Cayman Islands", "United Kingdom", "Canada"]
+        },
+        {
+        "id": 23,
+        "countries": ["Egypt"]
+        },
+        {
+        "id": 24,
+        "countries": ["India"]
+        },
+        {
+        "id": 25,
+        "countries": ["United States", "Pakistan"]
+        },
+        {
+        "id": 26,
+        "countries": ["Hungary"]
+        },
+        {
+        "id": 27,
+        "countries": ["Egypt"]
+        },
+        {
+        "id": 28,
+        "countries": ["India"]
+        },
+        {
+        "id": 29,
+        "countries": ["United States"]
+        },
+        {
+        "id": 30,
+        "countries": ["India"]
+        },
+        {
+        "id": 31,
+        "countries": ["Taiwan"]
+        },
+        {
+        "id": 32,
+        "countries": ["United States"]
+        }
+    ],
+    "summary": {
+        "total_responses": 32,
+        "unique_countries": [
+        "Afghanistan",
+        "Argentina",
+        "Bangladesh",
+        "Canada",
+        "Cayman Islands",
+        "China",
+        "Congo DR",
+        "Egypt",
+        "France",
+        "Hong Kong",
+        "Hungary",
+        "India",
+        "Italy",
+        "New Zealand",
+        "Nigeria",
+        "Pakistan",
+        "Serbia",
+        "Taiwan",
+        "Trinidad and Tobago",
+        "United Kingdom",
+        "United States"
+        ],
+        "most_common_countries": {
+        "India": 6,
+        "United States": 6,
+        "Egypt": 2,
+        "Hong Kong": 2,
+        "Pakistan": 2,
+        "Taiwan": 2,
+        "Trinidad and Tobago": 2
+        }
+    }
+    },
+    "birthCountry": {
+        "question": "What country were you born in?",
+        "responses": {
+            "canada": 68,
+            "united_states": 7,
+            "taiwan": 2,
+            "nigeria": 1,
+            "trinidad_and_tobago": 2,
+            "china": 5,
+            "india": 9,
+            "germany": 1,
+            "congo_dr": 1,
+            "england": 1,
+            "botswana": 1,
+            "korea": 1,
+            "south_korea": 1,
+            "argentina": 1,
+            "afghanistan": 1,
+            "pakistan": 1,
+            "uae": 1,
+            "tanzania": 1,
+            "grand_cayman_ca": 1,
+            "egypt": 2,
+            "ukraine": 1,
+            "hong_kong": 1
+        },
+        "summary": {
+            "canada_born": 68,
+            "international_born": 36,
+            "top_international_countries": {
+                "india": 9,
+                "united_states": 7,
+                "china": 5
+            }
+        }
+    },
+    "immigrationAge": {
+        "question": "If you were not born in Canada, at what age did you immigrate here? (Ranges are inclusive)",
+        "responses": {
+            "0_2_years": 7,
+            "3_5_years": 8,
+            "6_8_years": 7,
+            "9_11_years": 6,
+            "12_14_years": 9,
+            "18_plus_years": 7
+        }
+    },
+    "mostFluentLanguage": {
+        "question": "What language are you most fluent in?",
+        "responses": {
+            "english": 111,
+            "swahili": 1,
+            "french": 1,
+            "mandarin": 2,
+            "trinidadian_english_creole": 1,
+            "turkish": 1,
+            "urdu": 1,
+            "cpp": 1
+        }
+    },
+    "languageCount": {
+        "question": "How many languages do you speak?",
+        "responses": {
+            "1": 36,
+            "2": 58,
+            "3": 20,
+            "4": 3,
+            "5": 1,
+            "6_plus": 2
+        }
+    },
+    "treatedDifferently": {
+        "question": "Have you ever felt like you were treated differently because of your personal beliefs, values, traditions, etc. during your time here? (Includes work terms)",
+        "responses": {
+            "no": 89,
+            "yes": 22,
+            "unsure": 10
+        }
+    },
+    "politicalView": {
+        "question": "What political view do you most align with?",
+        "note": "Image source https://www.britannica.com/topic/political-spectrum",
+        "responses": {
+            "apolitical": 4,
+            "far_left": 7,
+            "left_of_centre": 43,
+            "centre": 32,
+            "right_of_centre": 31,
+            "far_right": 2
+        }
+    },
+    "financialAid": {
+        "question": "Please estimate how much financial aid you received in the form of government grants/loans, scholarships, bursaries, etc.",
+        "responses": {
+            "under_2k": 18,
+            "no_financial_aid": 27,
+            "12k_plus": 16,
+            "6k_8k": 15,
+            "10k_12k": 2,
+            "2k_4k": 21,
+            "8k_10k": 11,
+            "4k_6k": 12
+        },
+        "summary": {
+            "received_aid": 95,
+            "no_aid": 27,
+            "substantial_aid_10k_plus": 18,
+            "moderate_aid_2k_10k": 59,
+            "minimal_aid_under_2k": 18
+        }
+    }
+}

@@ -2,7 +2,7 @@
     "transferData": {
         "question": "Did you transfer into mechatronics from another program @ UW?",
         "responses": {
-            "no": 116,
+            "no": 117,
             "yes": 8
         }
     },
@@ -44,6 +44,34 @@
             "yes": 14
         }
     },
+    "initialStreamChoice": {
+        "question": "Why did you choose your initial stream?",
+        "responses": {
+            "didnt_choose_no_choice": 46,
+            "random": 2,
+            "friends_in_stream": 1,
+            "frc": 1,
+            "better_chance_getting_job": 47,
+            "better_job_opportunities": 19,
+            "more_time_adjust_university": 42,
+            "timeline_suited_goals": 23,
+            "experience_design_teams": 1
+        }
+    },
+    "streamSwitchReasons": {
+        "question": "If you switched streams, why did you switch?",
+        "responses": {
+            "friends": 1,
+            "better_chance_getting_job": 2,
+            "better_job_opportunities": 1,
+            "extend_coop": 4,
+            "timeline_suited_goals": 2,
+            "experience_design_teams": 1,
+            "external_job_off_stream": 1,
+            "wanted_time_off": 3,
+            "exchange": 2
+        }
+    },
     "streamAdvice": {
         "question": "Any additional comments about streams, or advice you'd like to provide to future Trons?",
         "responses": [
@@ -76,33 +104,5 @@
             "Participate in a design team. Courses don't teach you enough to apply at jobs",
             "Doesn't really matter, so don't stress it imo"
         ]
-    },
-    "initialStreamChoice": {
-        "question": "Why did you choose your initial stream?",
-        "responses": {
-            "didnt_choose_no_choice": 46,
-            "random": 2,
-            "friends_in_stream": 1,
-            "frc": 1,
-            "better_chance_getting_job": 47,
-            "better_job_opportunities": 19,
-            "more_time_adjust_university": 42,
-            "timeline_suited_goals": 23,
-            "experience_design_teams": 1
-        }
-    },
-    "streamSwitchReasons": {
-        "question": "If you switched streams, why did you switch?",
-        "responses": {
-            "friends": 1,
-            "better_chance_getting_job": 2,
-            "better_job_opportunities": 1,
-            "extend_coop": 4,
-            "timeline_suited_goals": 2,
-            "experience_design_teams": 1,
-            "external_job_off_stream": 1,
-            "wanted_time_off": 3,
-            "exchange": 2
-        }
     }
 }

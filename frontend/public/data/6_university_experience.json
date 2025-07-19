@@ -1,0 +1,509 @@
+{
+  "cumulativeGPA": {
+    "question": "What is your cumulative GPA? (Ranges are inclusive)",
+    "note": "GPA ranges on a scale of 0-100%",
+    "responses": {
+      "81_85": 8,
+      "76_80": 3,
+      "71_75": 2,
+      "86_90": 6,
+      "91_95": 5
+    },
+    "totalResponses": 24,
+    "statistics": {
+      "highPerformers_86_plus": {
+        "count": 11,
+        "percentage": 45.8,
+        "ranges": [
+          "86-90",
+          "91-95"
+        ]
+      },
+      "goodPerformers_81_85": {
+        "count": 8,
+        "percentage": 33.3,
+        "ranges": [
+          "81-85"
+        ]
+      },
+      "satisfactoryPerformers_76_80": {
+        "count": 3,
+        "percentage": 12.5,
+        "ranges": [
+          "76-80"
+        ]
+      },
+      "strugglingStudents_71_75": {
+        "count": 2,
+        "percentage": 8.3,
+        "ranges": [
+          "71-75"
+        ]
+      }
+    },
+    "distribution": {
+      "excellent_91_95": {
+        "count": 5,
+        "percentage": 20.8
+      },
+      "very_good_86_90": {
+        "count": 6,
+        "percentage": 25.0
+      },
+      "good_81_85": {
+        "count": 8,
+        "percentage": 33.3
+      },
+      "average_76_80": {
+        "count": 3,
+        "percentage": 12.5
+      },
+      "below_average_71_75": {
+        "count": 2,
+        "percentage": 8.3
+      }
+    },
+    "keyInsights": {
+      "medianRange": "81-85",
+      "mostCommonRange": "81-85",
+      "studentsAbove80": 19,
+      "percentageAbove80": 79.2,
+      "studentsAbove85": 11,
+      "percentageAbove85": 45.8
+    }
+  },
+  "favouriteCourses": {
+    "question": "Favourite course?",
+    "responses": [
+      "MTE 544",
+      "Elective - SYDE552, Non-elective - Calc with Patricia",
+      "MTE 262",
+      "ECE 327",
+      "MODS, calc 3",
+      "MTE380, MTE241",
+      "MTE100",
+      "MTE 322 (CLAS 104 if electives allowed)",
+      "MTE 100 (EGAD only lol)",
+      "Mods",
+      "MTE 262",
+      "MTE 241 Introduction to Computer Structures and Real-Time Systems",
+      "MTE 262",
+      "MTE 380",
+      "MTE 262",
+      "MTE 380",
+      "MTE380",
+      "ECE 373 (TE), MTE 220",
+      "MTE325 Microprocessor Systems and Interfacing for Mechatronics Engineering",
+      "ME362"
+    ],
+    "courseFrequency": {
+      "MTE_262": 4,
+      "MTE_380": 3,
+      "MTE_100": 2,
+      "MTE_241": 2,
+      "MTE_219": 2,
+      "MTE_544": 1,
+      "SYDE_552": 1,
+      "ECE_327": 1,
+      "MTE_203": 1,
+      "MTE_322": 1,
+      "CLAS_104": 1,
+      "ECE_373": 1,
+      "MTE_220": 1,
+      "MTE_325": 1,
+      "ME_362": 1
+    },
+    "topCourses": {
+      "MTE_262": {
+        "count": 4,
+        "title": "Introduction to Microprocessors and Digital Logic",
+        "description": "Most popular course - digital systems fundamentals"
+      },
+      "MTE_380": {
+        "count": 3,
+        "title": "Mechatronics Engineering Design",
+        "description": "Hands-on design course"
+      },
+      "MTE_100": {
+        "count": 2,
+        "title": "Engineering Practice and Design",
+        "description": "First-year design course (EGAD)"
+      },
+      "MTE_241": {
+        "count": 2,
+        "title": "Introduction to Computer Structures and Real-Time Systems",
+        "description": "Computer systems fundamentals"
+      },
+      "MODS": {
+        "count": 2,
+        "title": "Modeling and Design (MTE 360)",
+        "description": "Mathematical modeling course"
+      }
+    },
+    "courseCategories": {
+      "core_mechatronics": {
+        "courses": [
+          "MTE_262",
+          "MTE_380",
+          "MTE_241",
+          "MTE_325",
+          "MTE_220"
+        ],
+        "total_mentions": 12
+      },
+      "design_courses": {
+        "courses": [
+          "MTE_100",
+          "MTE_380",
+          "MTE_322"
+        ],
+        "total_mentions": 4
+      },
+      "electrical_courses": {
+        "courses": [
+          "ECE_327",
+          "ECE_373"
+        ],
+        "total_mentions": 2
+      },
+      "mathematics": {
+        "courses": [
+          "MODS",
+          "CALC_3"
+        ],
+        "total_mentions": 3
+      },
+      "electives": {
+        "courses": [
+          "SYDE_552",
+          "CLAS_104",
+          "MTE_544"
+        ],
+        "total_mentions": 3
+      },
+      "mechanical": {
+        "courses": [
+          "ME_362"
+        ],
+        "total_mentions": 1
+      }
+    },
+    "notableComments": [
+      "Calc with Patricia - highlighting specific professor",
+      "EGAD only lol - nostalgic reference to first-year design",
+      "CLAS 104 if electives allowed - appreciation for non-technical courses"
+    ]
+  },
+  "programEvaluation": {
+    "curriculumUsefulness": {
+      "question": "How useful has the program curriculum been in practice (eg. during internships, side projects, design teams, hackathons)?",
+      "note": "Scale of 1-10",
+      "responses": {
+        "1": 1,
+        "2": 0,
+        "3": 2,
+        "4": 2,
+        "5": 5,
+        "6": 4,
+        "7": 3,
+        "8": 4,
+        "9": 1,
+        "10": 1
+      }
+    },
+    "programInterest": {
+      "question": "How interesting was the program overall? (in terms of educational content)",
+      "note": "Scale of 1-10",
+      "responses": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 1,
+        "5": 1,
+        "6": 3,
+        "7": 8,
+        "8": 5,
+        "9": 2,
+        "10": 1
+      }
+    },
+    "programEnjoyment": {
+      "question": "Did you have fun?",
+      "responses": {
+        "yes": 19,
+        "meh": 4
+      }
+    },
+    "hackathonsCompleted": {
+      "question": "Hackathons completed?",
+      "responses": {
+        "0": 11,
+        "1": 6,
+        "2": 2,
+        "3": 1,
+        "4": 1,
+        "5_plus": 2
+      }
+    },
+    "favouriteTerm": {
+      "question": "Favourite term:",
+      "responses": {
+        "1A": 1,
+        "2A": 6,
+        "2B": 2,
+        "3A": 4,
+        "3B": 2,
+        "4A": 2,
+        "4B": 5
+      }
+    },
+    "leastFavouriteTerm": {
+      "question": "Least favourite term?",
+      "responses": {
+        "1A": 1,
+        "1B": 5,
+        "2A": 1,
+        "2B": 8,
+        "3A": 3,
+        "3B": 3,
+        "4A": 1
+      }
+    },
+    "hardestTerm": {
+      "question": "Hardest term?",
+      "responses": {
+        "1A": 2,
+        "1B": 2,
+        "2A": 1,
+        "2B": 6,
+        "3A": 5,
+        "3B": 3,
+        "4A": 1,
+        "4B": 2
+      }
+    },
+    "easiestTerm": {
+      "question": "Easiest term?",
+      "responses": {
+        "1A": 5,
+        "2A": 4,
+        "2B": 2,
+        "3A": 3,
+        "3B": 1,
+        "4A": 1,
+        "4B": 6
+      }
+    },
+    "favouriteProfessors": {
+      "question": "Favourite professor:",
+      "responses": [
+        "Nassar",
+        "fisher",
+        "allyg",
+        "bedi",
+        "Mods man",
+        "Patricia or Derek",
+        "James Tung",
+        "James Tung",
+        "Andrew Beltaos",
+        "Andrew Beltaos, Ryan Trelford, James Tung, Dan Davidson",
+        "Kankar Bhattacharya",
+        "Dongqing Li",
+        "Ramadan El Shatshat",
+        "Daniel Juhasz (ME561) otherwise James Tung",
+        "Nieva",
+        "Nasaar",
+        "Derek Wright, James Tung",
+        "Ally G",
+        "Andrew Morton",
+        "Derek my goat",
+        "Allyson Giannikouris & Eugene Li"
+      ],
+      "topMentioned": {
+        "james_tung": 5,
+        "derek_wright": 3,
+        "andrew_beltaos": 2,
+        "allyson_giannikouris": 2,
+        "nassar": 2
+      }
+    }
+  },
+  "funStory":
+    {
+    "question": "Tell us a fun story about your time here",
+    "responses": [
+      {
+        "id": 1,
+        "story": "Was playing in a US College frisbee tournament the weekend before Ally G's exam in 3rd year, car broke down on the drive home so we didn't get back till 2am, grinded thru till the exam at 8am, slept for 24hrs after",
+        "category": "Academic Pressure/Sports",
+        "themes": ["sports commitment", "travel mishaps", "last-minute studying", "exhaustion", "dedication"],
+        "people_mentioned": ["Ally G"],
+        "context": "Ultimate frisbee tournament conflicting with exam schedule"
+      },
+      {
+        "id": 2,
+        "story": "I straight up told Bill Owen that I was hammered at the Tron symposium dinner",
+        "category": "Social/Academic Events", 
+        "themes": ["honesty", "drinking", "academic events", "professor interaction"],
+        "people_mentioned": ["Bill Owen"],
+        "context": "Tron (Mechatronics) symposium dinner"
+      },
+      {
+        "id": 3,
+        "story": "Almost missed my final exam in 4B. If I didn't pass the exam I wouldn't graduate. Luckily my roommate woke me up with 30min to spare and the prof blesses me with some extra time.",
+        "category": "Academic Close Calls",
+        "themes": ["near disaster", "graduation stakes", "roommate support", "professor kindness", "time pressure"],
+        "people_mentioned": ["roommate", "unnamed professor"],
+        "context": "Final year graduation-critical exam"
+      },
+      {
+        "id": 4,
+        "story": "One time I walked into Neil Griffith's office looking for where I can get a pcb manufactured on campus (a service that hasn't existed for almost a decade) and he showed me how to use his homebrew pcb etching setup",
+        "category": "Professor Mentorship/DIY",
+        "themes": ["professor helpfulness", "DIY solutions", "outdated expectations", "hands-on learning", "resourcefulness"],
+        "people_mentioned": ["Neil Griffith"],
+        "context": "Seeking PCB manufacturing services"
+      },
+      {
+        "id": 5,
+        "story": "When we pranked professor Charbel by putting a speaker in the false ceiling and played animal sounds hahaha",
+        "category": "Pranks/Mischief",
+        "themes": ["pranks", "teamwork", "creativity", "humor", "technical mischief"],
+        "people_mentioned": ["Professor Charbel"],
+        "context": "Classroom prank using hidden speaker system"
+      }
+    ],
+    "summary": {
+      "total_stories": 5,
+      "story_categories": [
+        {
+          "category": "Academic Pressure/Sports",
+          "count": 1,
+          "description": "Balancing extracurricular activities with academics"
+        },
+        {
+          "category": "Social/Academic Events",
+          "count": 1, 
+          "description": "Social interactions at university events"
+        },
+        {
+          "category": "Academic Close Calls",
+          "count": 1,
+          "description": "Near-miss situations with academic consequences"
+        },
+        {
+          "category": "Professor Mentorship/DIY",
+          "count": 1,
+          "description": "Helpful professor interactions and learning experiences"
+        },
+        {
+          "category": "Pranks/Mischief",
+          "count": 1,
+          "description": "Student pranks and humorous incidents"
+        }
+      ],
+      "common_themes": [
+        "Professor interactions (positive and humorous)",
+        "Academic pressure and close calls",
+        "Teamwork and community support",
+        "Technical/engineering context",
+        "Time pressure situations",
+        "Resourcefulness and problem-solving"
+      ],
+      "professors_mentioned": [
+        {
+          "name": "Ally G",
+          "context": "Exam scheduling"
+        },
+        {
+          "name": "Bill Owen", 
+          "context": "Tron symposium dinner"
+        },
+        {
+          "name": "Neil Griffith",
+          "context": "PCB manufacturing help"
+        },
+        {
+          "name": "Professor Charbel",
+          "context": "Victim of animal sounds prank"
+        }
+      ],
+      "university_culture_insights": [
+        "Strong professor-student relationships with informal interactions",
+        "Engineering/technical focus (PCB manufacturing, Tron symposium)",
+        "Balance between academic rigor and social activities",
+        "Supportive peer community (roommate helping with exam)",
+        "Tradition of harmless pranks and humor",
+        "Students willing to go to great lengths for extracurricular commitments"
+      ],
+      "story_types": [
+        "Near-miss academic disasters",
+        "Professor kindness and mentorship", 
+        "Student pranks and humor",
+        "Balancing multiple commitments",
+        "Honest/awkward social moments"
+      ]
+    }
+  },
+  "programValueAssessment": {
+    "academicWorthiness": {
+      "question": "Considering the academic aspect only (eg. course content, labs, coursework) and excluding social factors (eg. friends, people connections) would you say that Tron has been a worthwhile investment of your time and money?",
+      "note": "Scale of 1-10",
+      "responses": {
+        "1": 0,
+        "2": 1,
+        "3": 2,
+        "4": 4,
+        "5": 4,
+        "6": 1,
+        "7": 4,
+        "8": 4,
+        "9": 1,
+        "10": 1
+      }
+    },
+    "overallWorthiness": {
+      "question": "Now considering all factors, would you say Tron has been a worthwhile use of your time and money?",
+      "note": "Scale of 1-10",
+      "responses": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 2,
+        "6": 1,
+        "7": 2,
+        "8": 6,
+        "9": 5,
+        "10": 5
+      }
+    },
+    "wouldChooseDifferent": {
+      "question": "If you were to go back, would you choose a different program?",
+      "responses": {
+        "yes": 6,
+        "no": 10,
+        "not_sure": 5
+      }
+    },
+    "feelScammed": {
+      "question": "Scammed?",
+      "responses": {
+        "yes": 4,
+        "no": 15,
+        "not_sure": 3
+      }
+    },
+    "recommendationLikelihood": {
+      "question": "How likely are you to recommend Tron to a friend?",
+      "note": "Scale of 1-5",
+      "responses": {
+        "1": 1,
+        "2": 2,
+        "3": 4,
+        "4": 8,
+        "5": 7
+      }
+    }
+  }
+}

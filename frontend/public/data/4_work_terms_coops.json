@@ -1,0 +1,591 @@
+{
+  "workIndustries": {
+    "question": "What industries have you worked in? We are curious how mechatronic you were or not.",
+    "responses": {
+      "software_developer": 68,
+      "mechanical": 66,
+      "software_firmware_embedded": 46,
+      "electrical_hardware": 38,
+      "research": 32,
+      "controls": 26,
+      "software_ai_ml": 23,
+      "project_management": 20,
+      "data_science": 13,
+      "electrical_power_systems": 12,
+      "ui_ux_design": 10,
+      "product_management": 7,
+      "robotics": 2,
+      "cybersecurity": 1,
+      "qa": 1,
+      "manufacturing_process_engineering": 1,
+      "venture_capital": 1,
+      "process_systems": 1
+    }
+  },
+  "bestCoopExperiences":
+    {
+    "question": "What was your favourite co-op experience? What made it such a good experience?",
+    "responses": [
+      {
+        "id": 1,
+        "response": "2nd coop. Small personable team, high velocity, cool tech, learned a lot.",
+        "company": null,
+        "key_factors": ["small team", "high velocity", "cool tech", "learning"]
+      },
+      {
+        "id": 2,
+        "response": "Working for a biotech startup & being able to develop a product",
+        "company": "biotech startup",
+        "key_factors": ["product development", "startup environment"]
+      },
+      {
+        "id": 3,
+        "response": "Working as a robotics research assistant at SickKids. The nature of the job, I just enjoyed working with the dVRK robot and that setting in general",
+        "company": "SickKids",
+        "key_factors": ["robotics", "research", "specific technology (dVRK robot)", "work environment"]
+      },
+      {
+        "id": 4,
+        "response": "Sinclair Interplanetary by Rocket Lab! It was a good environment in terms of work-life balance and support from the other employees, and the work was really interesting.",
+        "company": "Sinclair Interplanetary (Rocket Lab)",
+        "key_factors": ["work-life balance", "employee support", "interesting work"]
+      },
+      {
+        "id": 5,
+        "response": "Just having the ability to experience 6 different work environments throughout the course of this degree was my favorite part of co-op. I have made a lot of friends and connections through this experience.",
+        "company": null,
+        "key_factors": ["variety of experiences", "networking", "friendships"]
+      },
+      {
+        "id": 6,
+        "response": "Data Analyst at Super.com. Great pay, very flexible hours, great culture",
+        "company": "Super.com",
+        "key_factors": ["good pay", "flexible hours", "company culture"]
+      },
+      {
+        "id": 7,
+        "response": "Worked at a startup, the people made it the best co op.",
+        "company": "startup",
+        "key_factors": ["people/colleagues", "startup environment"]
+      },
+      {
+        "id": 8,
+        "response": "Working in California",
+        "company": null,
+        "key_factors": ["location (California)"]
+      },
+      {
+        "id": 9,
+        "response": "Working in the bay area for my last co-op. You get more money, better experience, better coworkers, and the state is beautiful.",
+        "company": null,
+        "key_factors": ["location (Bay Area)", "high pay", "good experience", "great coworkers", "beautiful location"]
+      },
+      {
+        "id": 10,
+        "response": "Working at a rich company in California. Exploring the beauty and nice weather of California while getting paid well and travelling a lot overseas for free for my company.",
+        "company": null,
+        "key_factors": ["location (California)", "good pay", "travel opportunities", "weather", "company resources"]
+      },
+      {
+        "id": 11,
+        "response": "ODI (Ontario Die International). Lots of coops of the same year that I interacted with daily. Also ping pong table in lunch room was goated.",
+        "company": "Ontario Die International (ODI)",
+        "key_factors": ["peer interaction", "social environment", "office amenities"]
+      },
+      {
+        "id": 12,
+        "response": "$$$",
+        "company": null,
+        "key_factors": ["high pay"]
+      },
+      {
+        "id": 13,
+        "response": "I had an amazing time at Christie Digital with the best co-op students you can dream of",
+        "company": "Christie Digital",
+        "key_factors": ["peer quality", "co-op community"]
+      },
+      {
+        "id": 14,
+        "response": "Built my own startup",
+        "company": "own startup",
+        "key_factors": ["entrepreneurship", "ownership"]
+      },
+      {
+        "id": 15,
+        "response": "Working in California in the summer. The weather changes everything",
+        "company": null,
+        "key_factors": ["location (California)", "weather", "seasonal timing"]
+      },
+      {
+        "id": 16,
+        "response": "Versa Networks, a well-established startup in California allowed me to spearhead development in big customer features from the beginning and develop me into the developer that I am today.",
+        "company": "Versa Networks",
+        "key_factors": ["leadership opportunities", "customer-facing work", "professional development", "startup environment"]
+      },
+      {
+        "id": 17,
+        "response": "My co-op at Tesla. I had a great team of people who I loved working with, and I got the chance to work on interesting, impactful projects while developing new skills.",
+        "company": "Tesla",
+        "key_factors": ["great team", "interesting projects", "impact", "skill development"]
+      },
+      {
+        "id": 18,
+        "response": "Last 2 coops, making friends with colleagues and coops",
+        "company": null,
+        "key_factors": ["friendships", "social connections"]
+      },
+      {
+        "id": 19,
+        "response": "One of my favourite co-op experiences was doing research into AI expert systems at IBM. While I had other offers for higher pay and/or more convenient locations, the experience I gained and learning that I was able to accomplish while surrounded by a team of highly skilled and exceptionally driven individuals pushed me to advance myself far faster than I ever thought possible. This led to both a fun internship experience and an experience where I learned far more than all my other co-ops combined.",
+        "company": "IBM",
+        "key_factors": ["AI research", "learning", "skilled team", "personal growth", "challenging work"]
+      },
+      {
+        "id": 20,
+        "response": "Test driving sea-doos",
+        "company": null,
+        "key_factors": ["unique work activities", "product testing"]
+      },
+      {
+        "id": 21,
+        "response": "Work where I was treated as a full-time instead of given odd tasks",
+        "company": null,
+        "key_factors": ["meaningful work", "respect", "integration"]
+      },
+      {
+        "id": 22,
+        "response": "Nuvation Energy, great mentorship, smart people, lots of hands-on work",
+        "company": "Nuvation Energy",
+        "key_factors": ["mentorship", "smart colleagues", "hands-on work"]
+      },
+      {
+        "id": 23,
+        "response": "Working at Tesla - very smart and interesting people, all driven towards the same goal. Was the most hardworking team, where I learned the most and still connected with everyone on my team and adjacent teams.",
+        "company": "Tesla",
+        "key_factors": ["smart colleagues", "shared goals", "hardworking team", "learning", "team connections"]
+      },
+      {
+        "id": 24,
+        "response": "Working at ATS, made great connections",
+        "company": "ATS",
+        "key_factors": ["networking", "connections"]
+      },
+      {
+        "id": 25,
+        "response": "immediate impact, lot of trust in me",
+        "company": null,
+        "key_factors": ["immediate impact", "trust", "responsibility"]
+      },
+      {
+        "id": 26,
+        "response": "Trexo Robotics, got to own a complete mechatronics project and see it to completion",
+        "company": "Trexo Robotics",
+        "key_factors": ["project ownership", "completion", "mechatronics", "end-to-end experience"]
+      },
+      {
+        "id": 27,
+        "response": "Apple, development",
+        "company": "Apple",
+        "key_factors": ["development work"]
+      },
+      {
+        "id": 28,
+        "response": "At a gaming company. I really loved video games so it was my ideal workplace. They gave interns free access to all their games and we still got to keep access to the games even after our internship ended.",
+        "company": "gaming company",
+        "key_factors": ["personal interest alignment", "perks", "ongoing benefits"]
+      },
+      {
+        "id": 29,
+        "response": "Hardware",
+        "company": null,
+        "key_factors": ["hardware work"]
+      },
+      {
+        "id": 30,
+        "response": "My favorite co-ops have been at startups, since there was always something to do, and the full-timers and mentors were always willing to help out and offload tasks. It was great since they gave you ownership of the projects you took on.",
+        "company": "startups",
+        "key_factors": ["startup environment", "variety of work", "mentorship", "project ownership"]
+      },
+      {
+        "id": 31,
+        "response": "Apple. The novelty and the money",
+        "company": "Apple",
+        "key_factors": ["brand prestige", "high pay"]
+      },
+      {
+        "id": 32,
+        "response": "Apple - Product Design fun",
+        "company": "Apple",
+        "key_factors": ["product design", "enjoyable work"]
+      },
+      {
+        "id": 33,
+        "response": "Employer gave me 3 big projects to do where i learned a lot I hadn't ever worked with before and overall, just trusted me with big decisions.",
+        "company": null,
+        "key_factors": ["big projects", "learning new things", "trust", "decision-making authority"]
+      },
+      {
+        "id": 34,
+        "response": "Mondelez. Free Oreos",
+        "company": "Mondelez",
+        "key_factors": ["perks", "free food"]
+      },
+      {
+        "id": 35,
+        "response": "Working at Sea-Doo in Quebec. Had a great work-life balance with some really nice and fun people.",
+        "company": "Sea-Doo",
+        "key_factors": ["work-life balance", "nice colleagues", "fun environment"]
+      },
+      {
+        "id": 36,
+        "response": "Manulife, the opportunity to work on a meaningful project",
+        "company": "Manulife",
+        "key_factors": ["meaningful work", "project significance"]
+      },
+      {
+        "id": 37,
+        "response": "Final coop term, working at Viryl Tech. Had a lot of autonomy to design, develop, and test products.",
+        "company": "Viryl Tech",
+        "key_factors": ["autonomy", "product development", "full development cycle"]
+      },
+      {
+        "id": 38,
+        "response": "Skipped 3 coop terms (with e-coop) to work on my startup. Very worth it, learned a lot more than I would have as an intern.",
+        "company": "own startup",
+        "key_factors": ["entrepreneurship", "accelerated learning", "independence"]
+      },
+      {
+        "id": 39,
+        "response": "Atomic Semi was great. Great coworkers, amazing project, an environment conducive to making really cool stuff.",
+        "company": "Atomic Semi",
+        "key_factors": ["great coworkers", "amazing projects", "innovative environment"]
+      },
+      {
+        "id": 40,
+        "response": "Christie Digital",
+        "company": "Christie Digital",
+        "key_factors": []
+      },
+      {
+        "id": 41,
+        "response": "My last co-op, since they gave me a large amount of freedom to pursue my own research projects",
+        "company": null,
+        "key_factors": ["freedom", "research", "self-directed projects"]
+      },
+      {
+        "id": 42,
+        "response": "electrical work was fun! I liked working in-person and debugging",
+        "company": null,
+        "key_factors": ["electrical work", "in-person work", "debugging", "hands-on work"]
+      },
+      {
+        "id": 43,
+        "response": "Figure AI - got to work at a fast paced startup working with humanoid robots",
+        "company": "Figure AI",
+        "key_factors": ["fast-paced", "startup environment", "robotics", "cutting-edge technology"]
+      },
+      {
+        "id": 44,
+        "response": "My favourite co-op was BRP Inc in Quebec, my role was Vehicle Dynamics Intern and I got to ride the off roading vehicles, be part of a living learning community with people across the world, I learned so many new technical tools, cultural knowledge as well as interpersonal relationships",
+        "company": "BRP Inc",
+        "key_factors": ["vehicle testing", "international community", "technical learning", "cultural exchange", "interpersonal skills"]
+      },
+      {
+        "id": 45,
+        "response": "I really enjoyed my term at Arc Boats in California. Being able to live somewhere else for 4 months was such a unique experience, and the people there are so different than here in Canada/Waterloo. There is a unique life about working and living somewhere like LA that I really enjoyed.",
+        "company": "Arc Boats",
+        "key_factors": ["location change", "cultural experience", "different lifestyle", "California/LA experience"]
+      },
+      {
+        "id": 46,
+        "response": "Robotics engineering co-op in astrophysics at the NRC. I got to design a telescope calibration system from the ground up and travel to New Mexico to install it. Loved learning about space, having on a personal project, and working with smart people.",
+        "company": "NRC",
+        "key_factors": ["robotics", "astrophysics", "end-to-end project", "travel", "space technology", "smart colleagues"]
+      },
+      {
+        "id": 47,
+        "response": "My favourite coop experience was my 4th coop where I worked at a robotics startup. It was my first firmware/embedded job, and because of the small size of the company I was able to take ownership of whole features/initiatives rather than just work on less meaningful tasks.",
+        "company": "robotics startup",
+        "key_factors": ["robotics", "firmware/embedded", "small company", "feature ownership", "meaningful work"]
+      },
+      {
+        "id": 48,
+        "response": "Trend Micro, great company, great work culture, great people",
+        "company": "Trend Micro",
+        "key_factors": ["company culture", "great people"]
+      },
+      {
+        "id": 49,
+        "response": "Deeptrekker, I had a really good supervisor, and i worked on interesting robots, which gave a me a greater appreciation for Mechatronics.",
+        "company": "Deeptrekker",
+        "key_factors": ["good supervisor", "robotics", "mechatronics appreciation"]
+      },
+      {
+        "id": 50,
+        "response": "Finally getting a job in robotics! The company was very passionate and hard working",
+        "company": null,
+        "key_factors": ["robotics", "passionate team", "hard working environment"]
+      },
+      {
+        "id": 51,
+        "response": "Last co-op - was living in SF, not doing engineering work at all, in a really exciting field",
+        "company": null,
+        "key_factors": ["location (San Francisco)", "non-engineering work", "exciting field"]
+      },
+      {
+        "id": 52,
+        "response": "Working at Tesla. The insane depth of knowledge that you can gain from the engineers and the freedom to define your own work",
+        "company": "Tesla",
+        "key_factors": ["learning from engineers", "freedom", "self-directed work"]
+      }
+    ],
+    "summary": {
+      "total_responses": 52,
+      "top_companies_mentioned": {
+        "Tesla": 4,
+        "Apple": 3,
+        "Christie Digital": 2,
+        "startup/startups": 6
+      },
+      "most_common_factors": [
+        "learning/skill development",
+        "good colleagues/team",
+        "project ownership/autonomy", 
+        "startup environment",
+        "location benefits",
+        "meaningful/interesting work",
+        "high pay",
+        "robotics",
+        "work-life balance",
+        "mentorship"
+      ],
+      "location_preferences": [
+        "California",
+        "Bay Area", 
+        "San Francisco",
+        "Quebec"
+      ],
+      "work_types_mentioned": [
+        "robotics",
+        "AI/research",
+        "product development",
+        "hardware",
+        "firmware/embedded",
+        "data analysis",
+        "product design"
+      ]
+    }
+  },
+  "waterlooWorksThoughts":
+  {
+    "question": "How did you find your jobs?",
+    "total_responses": 122,
+    "responses": [
+      {
+        "method": "Waterloo Works",
+        "count": 121,
+        "percentage": 99.2,
+        "description": "University's co-op job portal"
+      },
+      {
+        "method": "Referral",
+        "count": 44,
+        "percentage": 36.1,
+        "description": "Through personal or professional connections"
+      },
+      {
+        "method": "LinkedIn",
+        "count": 41,
+        "percentage": 33.6,
+        "description": "Professional networking platform"
+      },
+      {
+        "method": "Coffee Chats",
+        "count": 4,
+        "percentage": 3.3,
+        "description": "Informal networking meetings"
+      },
+      {
+        "method": "Unknown/Other",
+        "count": 3,
+        "percentage": 2.5,
+        "description": "Unspecified or other methods"
+      },
+      {
+        "method": "Job Fairs",
+        "count": 2,
+        "percentage": 1.6,
+        "description": "Career fair events"
+      },
+      {
+        "method": "External applications",
+        "count": 2,
+        "percentage": 1.6,
+        "description": "Applications outside university system"
+      },
+      {
+        "method": "Instagram",
+        "count": 1,
+        "percentage": 0.8,
+        "description": "Social media platform"
+      },
+      {
+        "method": "Applying externally",
+        "count": 1,
+        "percentage": 0.8,
+        "description": "Direct external applications"
+      },
+      {
+        "method": "Family Connections",
+        "count": 1,
+        "percentage": 0.8,
+        "description": "Through family network"
+      },
+      {
+        "method": "Cold applying on company site",
+        "count": 1,
+        "percentage": 0.8,
+        "description": "Unsolicited applications on company websites"
+      },
+      {
+        "method": "Conference",
+        "count": 1,
+        "percentage": 0.8,
+        "description": "Professional conferences and events"
+      },
+      {
+        "method": "Company website",
+        "count": 1,
+        "percentage": 0.8,
+        "description": "Direct application through company careers page"
+      },
+      {
+        "method": "Direct postings",
+        "count": 1,
+        "percentage": 0.8,
+        "description": "Job postings found directly"
+      },
+      {
+        "method": "Reaching out to companies",
+        "count": 1,
+        "percentage": 0.8,
+        "description": "Proactive outreach to companies"
+      },
+      {
+        "method": "Engineering connections",
+        "count": 1,
+        "percentage": 0.8,
+        "description": "Through engineering professional networks"
+      }
+    ],
+    "summary": {
+      "top_methods": [
+        {
+          "method": "Waterloo Works",
+          "dominance": "Overwhelmingly dominant - used by 99.2% of respondents"
+        },
+        {
+          "method": "Referral",
+          "importance": "Second most common - 36.1% used personal connections"
+        },
+        {
+          "method": "LinkedIn",
+          "importance": "Third most common - 33.6% used professional networking"
+        }
+      ],
+      "categories": {
+        "university_system": {
+          "methods": ["Waterloo Works"],
+          "total_percentage": 99.2
+        },
+        "networking": {
+          "methods": ["Referral", "LinkedIn", "Coffee Chats", "Family Connections", "Engineering connections"],
+          "combined_usage": "High networking usage with multiple overlap"
+        },
+        "direct_application": {
+          "methods": ["External applications", "Applying externally", "Cold applying on company site", "Company website", "Direct postings"],
+          "combined_percentage": "~5-6% combined"
+        },
+        "events_and_fairs": {
+          "methods": ["Job Fairs", "Conference"],
+          "combined_percentage": "2.4%"
+        },
+        "social_media": {
+          "methods": ["LinkedIn", "Instagram"],
+          "note": "LinkedIn dominant in this category"
+        },
+        "other": {
+          "methods": ["Reaching out to companies", "Unknown/Other"],
+          "combined_percentage": "3.3%"
+        }
+      },
+      "insights": [
+        "Waterloo Works is the primary job discovery method for nearly all students",
+        "Networking (referrals + LinkedIn) is used by a significant portion as supplementary method",
+        "Traditional job search methods (external applications, job fairs) have low usage",
+        "Students appear to use multiple methods (totals exceed 100%)",
+        "University co-op system provides strong job placement infrastructure"
+      ]
+    }
+  },
+  "internshipTips": {
+    "question": "Any tips for landing an internship?",
+    "responses": [
+      "Don't get discouraged during the first couple of terms! The later co-ops tend to come easier with more experience. I personally have submitted over 500 applications on WaterlooWorks, eventually something will stick.",
+      "Take pride in stuff that you have accomplished & listed on your resume",
+      "join a design team",
+      "take any interview you get even for practice, for software: Hackathons, Leetcode, Conferences, Projects, Passion",
+      "Grind outside of school",
+      "Grind side projects or join design teams",
+      "Turn an interview into a conversation rather than them just asking the questions.",
+      "Make connections!",
+      "Apply more, get referrals",
+      "Join design teams!",
+      "Work on design teams and have a string portfolio",
+      "Keep spam applying. Sometimes, it might just work. Also, don't neglect interview prep.",
+      "Have friends in high places.",
+      "linkedin connections!",
+      "Be passionate about what you do. Don't do shit for the money or networking.",
+      "Grind side projects & design teams, portfolio on resume, LinkedIn is pretty good",
+      "Get involved with design teams or personal projects",
+      "Reach out to interesting people on linkedin and chat about what they do, when there is a common interest, they are more likely to help you find a role somewhere at the company.",
+      "Apply to jobs even if you think you're not qualified.",
+      "Do a lot projects. Hackathons",
+      "Work on your portfolio! Build it with projects",
+      "Tailoring our resume to specific jobs, keeping a 'master list' of experiences/projects",
+      "Join a design team in 1A and do as much work as you can with it. Specific, relevant experience on your resume is what will get you a job. The theory you learn in and out of class is only useful if you use it to do something.",
+      "Your parents are Staff Engineers at Nvidia",
+      "Don't be weird, shower before your interviews",
+      "Grind hard early even during your current co-op",
+      "Get your resume reviewed on r/EngineeringResumes / peers / mentors",
+      "Make connections, everyone knows someone, and people want to help!",
+      "do something outside of school worth talking about",
+      "Spam apply with a portfolio",
+      "Make a project portfolio, attach it with all applications. Being yourself is more important than being perfect in interviews.",
+      "Your first one, try reaching out through as many avenues as possible. You want to cast a wide net. Same for applications on WaterlooWorks.",
+      "If you want top tier jobs, be willing to work 'stepping stone' jobs in random cities that might not pay as well to gain relevant experience in that field. Dress well in interviews, tell stories, be very likeable. Work on your people and speaking skills. A lot of times even having 11/10 technical kowledge won't save you.",
+      "Design Teams and Personal Projects - show off in your Portfolio, take a 'less desirable' first coop to build foundational skills such as manufacturing experience or drafting experience instead of jumping straight into design - you probably wont be a good designer at the start.",
+      "Look at the job descriptions of jobs are you are interested in",
+      "Get your LinkedIn in good shape and put it on your resume",
+      "Join design teams. Show people you are interested and passionate through your actions not your words.",
+      "Aim high, don't be afraid",
+      "Have a cool portfolio with interesting and unique things, even if they aren't the most impressive things in the world.",
+      "Do cool things",
+      "Work for it, portfolios are a must, get your resume reviewed with an upper year",
+      "Do personal projects even if they're small - shows initiative which apparently interviewers like",
+      "Fill out as many applications as you can. Have personal projects",
+      "Work your ass off, put in the time to be technically competent, and be very thorough",
+      "All experiences matter, try to do your research and put your best foot forward. You miss all shots you don't take so don't get intimidated and apply to everything you are interested in! Passion and willingness to learn matters more than proven experience",
+      "Send emails and reach out to people at the companies/industries you're interested in ! Demonstrated interest goes so much further than just 'having a better resume'. I cannot stress the amount of hiring managers that have told me they'd much rather hire someone with good people skills and who's easy to work with than someone who is technically perfect for the job but lacking in people/interpersonal skills. You can teach/refine technical skills but you cannot change people's attitude/demeanour.",
+      "Work on projects relevant to positions",
+      "Get the look of your resume right, single column, no color, all black and white. Easy on the eyes of the recruiters. Get it reviewed a ton from senior trons and listen to what they say. If you wanna go to Cali, consistent design team involvement or URAs are the way to go",
+      "Get gud",
+      "just keep trying!",
+      "interviewers want to hear you yap about something you're passionate about",
+      "Be friendly in interviews, show that you're a real person and would be good to work with. Don't be afraid to ask questions during the interview and try to focus on or bring up your unique characteristics and differentiation from other candidates",
+      "Contact engineers through linkedin",
+      "Be at the right place at the right time. Join a design team and attend the design team specific recruiting events. Landed my last internship and full time job through these events.",
+      "Join design teams early and build strong connections"
+    ]
+  }
+}
